@@ -1,0 +1,1 @@
+dotnet D:\folder\HelloWorldApp\HelloWorldApp.Web\bin\Release\net6.0\HelloWorldApp.Web.dll
